@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Edu+QLD+Beginner&display=swap');
+
+body{
+    background-color: #e45c89;
+    display: flex;
+    justify-content: center;
+    font-family: roboto;
+    padding-top: 100px;
+}
+

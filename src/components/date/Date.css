@@ -1,0 +1,16 @@
+
+.date{
+    background-color: #3b424a;
+    width: 800px;
+    height: 250px;
+    border-left: 1px solid #363d45;
+    border-right: 1px solid #363d45;
+}
+
+.date p{
+    margin: 0;
+    text-align: center;
+    padding-top: 50px;
+    font-size: 40px;
+    color: #c5ced7;
+}
